@@ -5,6 +5,7 @@ Parse ORE documents from DataONE to produce a map of relations. Output is a
 series of JSON records, one per line.
 
 ::
+
   usage: oreaper [-h] [-l] [-x DATE_START] [-y DATE_END] [-b BASE_URL]
                [-C MAX_RECORDS] [-p PAGE_SIZE] [-s START_INDEX]
 
